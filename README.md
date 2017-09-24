@@ -1,2 +1,0 @@
-# pruebagithub
-primer repositorio
